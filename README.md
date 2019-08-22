@@ -1,2 +1,2 @@
 # vezba1-React-
-Moj prvi folder
+Moj prva vezba
