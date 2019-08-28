@@ -23,7 +23,6 @@ export default class HomePage extends Component {
     // searchValue ti je vredost koju uzimas iz inputa u Searchu
     state = {
         searchValue: '',
-        currentUser: null,
         customers: users
     }
 
